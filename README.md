@@ -1,7 +1,5 @@
 # Third-eye-for-blind
 
-Project Title: Third Eye for Blind
-
 # Description:
 
 Third Eye for Blind is a wearable device that provides enhanced environmental awareness and safety for individuals with visual impairments. It utilizes advanced sensing technology to detect obstacles and objects in the user's path, providing real-time voice alerts for immediate warning and guidance. The device is designed using high-intensity circuits for VLSI (Very Large Scale Integration) applications, ensuring efficient and reliable performance.
@@ -22,7 +20,7 @@ Third Eye for Blind is a wearable device that provides enhanced environmental aw
 
 - VLSI (Very Large Scale Integration) circuits.
 - Advanced sensing technology (e.g., ultrasonic sensors, infrared sensors).
-- Microcontroller (Arduino NANO is used) for data processing and voice output.
+- Microcontroller (Arduino NANO was used) for data processing and voice output.
 - Embedded software for device control and user interface.
 
 # Usage:
